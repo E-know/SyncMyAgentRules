@@ -1,0 +1,63 @@
+{
+  "fields" : {
+    "args" : [
+
+    ],
+    "command" : {
+      "$binding" : "5:codex/9:node_repl/7:command"
+    },
+    "env" : {
+      "BROWSER_USE_AVAILABLE_BACKENDS" : {
+        "$binding" : "5:codex/9:node_repl/3:env/30:BROWSER_USE_AVAILABLE_BACKENDS"
+      },
+      "BROWSER_USE_CODEX_APP_BUILD_FLAVOR" : {
+        "$binding" : "5:codex/9:node_repl/3:env/34:BROWSER_USE_CODEX_APP_BUILD_FLAVOR"
+      },
+      "BROWSER_USE_CODEX_APP_VERSION" : {
+        "$binding" : "5:codex/9:node_repl/3:env/29:BROWSER_USE_CODEX_APP_VERSION"
+      },
+      "BROWSER_USE_TINYSKY_ENABLED" : {
+        "$binding" : "5:codex/9:node_repl/3:env/27:BROWSER_USE_TINYSKY_ENABLED"
+      },
+      "CODEX_CLI_PATH" : {
+        "$binding" : "5:codex/9:node_repl/3:env/14:CODEX_CLI_PATH"
+      },
+      "CODEX_HOME" : {
+        "$binding" : "5:codex/9:node_repl/3:env/10:CODEX_HOME"
+      },
+      "NODE_REPL_INSTRUCTIONS_USE_CASE_BROWSER" : {
+        "$binding" : "5:codex/9:node_repl/3:env/39:NODE_REPL_INSTRUCTIONS_USE_CASE_BROWSER"
+      },
+      "NODE_REPL_INSTRUCTIONS_USE_CASE_CHROME" : {
+        "$binding" : "5:codex/9:node_repl/3:env/38:NODE_REPL_INSTRUCTIONS_USE_CASE_CHROME"
+      },
+      "NODE_REPL_INSTRUCTIONS_USE_CASE_COMPUTER_USE" : {
+        "$binding" : "5:codex/9:node_repl/3:env/44:NODE_REPL_INSTRUCTIONS_USE_CASE_COMPUTER_USE"
+      },
+      "NODE_REPL_NATIVE_PIPE_CONNECT_TIMEOUT_MS" : {
+        "$binding" : "5:codex/9:node_repl/3:env/40:NODE_REPL_NATIVE_PIPE_CONNECT_TIMEOUT_MS"
+      },
+      "NODE_REPL_NODE_MODULE_DIRS" : {
+        "$binding" : "5:codex/9:node_repl/3:env/26:NODE_REPL_NODE_MODULE_DIRS"
+      },
+      "NODE_REPL_NODE_PATH" : {
+        "$binding" : "5:codex/9:node_repl/3:env/19:NODE_REPL_NODE_PATH"
+      },
+      "NODE_REPL_TRUSTED_CODE_PATHS" : {
+        "$binding" : "5:codex/9:node_repl/3:env/28:NODE_REPL_TRUSTED_CODE_PATHS"
+      },
+      "NODE_REPL_TRUSTED_SERVICES" : {
+        "$binding" : "5:codex/9:node_repl/3:env/26:NODE_REPL_TRUSTED_SERVICES"
+      },
+      "SKY_CUA_SERVICE_PATH" : {
+        "$binding" : "5:codex/9:node_repl/3:env/20:SKY_CUA_SERVICE_PATH"
+      }
+    },
+    "env_vars" : [
+      "BROWSER_USE_ACCESS_EXECUTOR_ID",
+      "BROWSER_USE_ACCESS_PIPE_PATH",
+      "BROWSER_USE_ACCESS_VERIFYING_IDENTITY"
+    ],
+    "startup_timeout_sec" : 120
+  }
+}
