@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : false,
+  "id" : "code-review@claude-plugins-official",
+  "marketplace" : "claude-plugins-official",
+  "source" : "anthropics/claude-plugins-official"
+}

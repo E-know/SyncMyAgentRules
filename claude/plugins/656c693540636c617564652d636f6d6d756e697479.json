@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : true,
+  "id" : "eli5@claude-community",
+  "marketplace" : "claude-community",
+  "source" : "anthropics/claude-plugins-community"
+}

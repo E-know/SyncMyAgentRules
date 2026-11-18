@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : true,
+  "id" : "notion-doc@agent-notion-template-docs",
+  "marketplace" : "agent-notion-template-docs",
+  "source" : "heyman333/agent-notion-template-docs"
+}

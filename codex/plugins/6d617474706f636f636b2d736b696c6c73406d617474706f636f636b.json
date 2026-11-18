@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : true,
+  "id" : "mattpocock-skills@mattpocock",
+  "marketplace" : "mattpocock",
+  "source" : "https://github.com/mattpocock/skills.git"
+}

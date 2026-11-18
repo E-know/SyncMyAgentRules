@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : true,
+  "id" : "mattpocock-skills@claude-plugins-official",
+  "marketplace" : "claude-plugins-official",
+  "source" : "anthropics/claude-plugins-official"
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : true,
+  "id" : "firebase@firebase",
+  "marketplace" : "firebase",
+  "source" : "firebase/firebase-tools"
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies" : [
+
+  ],
+  "enabled" : true,
+  "id" : "superpowers@claude-plugins-official",
+  "marketplace" : "claude-plugins-official",
+  "source" : "https://github.com/anthropics/claude-plugins-official.git"
+}

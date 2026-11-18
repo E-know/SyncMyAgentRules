@@ -1,0 +1,21 @@
+{
+  "fields" : {
+    "args" : [
+      "plane-mcp-server",
+      "stdio"
+    ],
+    "command" : "uvx",
+    "env" : {
+      "PLANE_API_KEY" : {
+        "$binding" : "6:claude/5:plane/3:env/13:PLANE_API_KEY"
+      },
+      "PLANE_BASE_URL" : {
+        "$binding" : "6:claude/5:plane/3:env/14:PLANE_BASE_URL"
+      },
+      "PLANE_WORKSPACE_SLUG" : {
+        "$binding" : "6:claude/5:plane/3:env/20:PLANE_WORKSPACE_SLUG"
+      }
+    },
+    "type" : "stdio"
+  }
+}
